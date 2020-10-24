@@ -9,14 +9,14 @@ const projectName = 'javascript-calculator';
 const isOperator = /[x/+‑]/,
 endsWithOperator = /[x+‑/]$/,
 endsWithNegativeSign = /[x/+]‑$/,
-clearStyle = { background: '#ac3939' },
-operatorStyle = { background: '#666666' },
+clearStyle = { background: '#F57D7C' },
+operatorStyle = { background: '#5A809E' },
 equalsStyle = {
-  background: '#004466',
+  background: '#6CC2BD',
   position: 'absolute',
   height: 130,
   bottom: 5 };
-
+  
 
 // COMPONENTS:
 class Calculator extends React.Component {
@@ -174,9 +174,9 @@ class Calculator extends React.Component {
 
 
       React.createElement("div", { className: "author" },
-      ' ', "Designed and Coded By ",
+      ' ', "Redesigned and Coded By ",
       React.createElement("br", null),
-      React.createElement("a", { href: "https://goo.gl/6NNLMG", target: "_blank" }, "Peter Weinberg"))));
+      React.createElement("a", { href: "https://github.com/nk2303/calculator-js", target: "_blank" }, "Ngan Kim Khong"))));
 
 
 

@@ -12,7 +12,7 @@
 }
 
 body {
-  background: #c2c2d6;
+  background: #E5EDEF;
   -webkit-touch-callout: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -22,7 +22,7 @@ body {
 }
 
 .calculator {
-  border: 2px solid #47476b;
+  /* border: 2px solid #47476b; */
   padding: 5px;
   background: black;
   width: 320px;
@@ -56,14 +56,14 @@ button {
   color: white;
   outline: 1px solid black;
   border: none;
-  background: #4d4d4d;
+  background: #7C79A2;
   font-family: Share Tech Mono, monospace;
   font-size: 20px;
   cursor: default;
 }
 button:hover {
   color: black;
-  outline: 0.05em solid grey;
+  outline: 0.1em solid;
   z-index: 3;
 }
 
