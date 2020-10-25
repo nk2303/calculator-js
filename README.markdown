@@ -9,6 +9,6 @@ A project created by Ngan Kim Khong. Link to project here: [https://nk2303.githu
 
 Color Pallete: [https://www.design-seeds.com/in-nature/heavens/color-dream-11/](https://www.design-seeds.com/in-nature/heavens/color-dream-11/)
 
-Original on CodePen.io: [https://codepen.io/freeCodeCamp/pen/wgGVVX](https://codepen.io/freeCodeCamp/pen/wgGVVX).
+Tutorial from FreeCodeCamp: [https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/](https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/).
 
 
